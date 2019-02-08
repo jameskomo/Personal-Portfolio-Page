@@ -44,9 +44,13 @@ height: 200px;
   font-style: oblique;
   background-color: #cbf1f5;
 }
+
 .projects-container1 {
   display: inline-block;
   clear: both;
-  background-color: #ebfffa;
-  width: 150px;
+  width: 250px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 0;
+  padding-bottom: 0;
 }
