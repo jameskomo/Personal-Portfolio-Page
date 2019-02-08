@@ -7,9 +7,9 @@ html {
   background-color: #709078;
 }
 #displayphoto {
-float: right;
+display: block;
 border-radius: 149px 149px 149px 149px;
 padding: 0;
-margin: auto;
+margin-left: 50%;
 height: 200px
 }
