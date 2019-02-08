@@ -45,14 +45,26 @@ height: 200px;
 .whycode {
   color: red;
   }
-.education-job-experience {
-  background-color: #d7fbe8;
+.education-work {
+  background-color: #cbf9da;
+  display: inline-block;
+  word-wrap: break-word;
+}
+.education-background {
+  word-wrap: normal;
+  float: left;
+}
+
+.work-background {
+  float: left;
+  word-wrap: normal;
 }
 .projectsdone {
   border-style: dotted;
   border-width: thin;
   padding-top: 5px;
   margin-top: 0;
+  margin-left: 0;
   text-align: center;
   background-color: #cbf1f5;
   font-family: sans-serif;
