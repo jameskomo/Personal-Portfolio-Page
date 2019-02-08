@@ -46,7 +46,7 @@ height: 200px;
   color: red;
   }
 .education-work {
-  background-color: #cbf9da;
+  background-color: #c2fcf6;
   display: inline-block;
   word-wrap: break-word;
 }
@@ -58,6 +58,12 @@ height: 200px;
 .work-background {
   float: left;
   word-wrap: normal;
+}
+.hobbies {
+  background-color: #e9fadd;
+  float: left;
+  word-wrap: normal;
+  display: inline-block;
 }
 .projectsdone {
   border-style: dotted;
@@ -77,8 +83,6 @@ height: 200px;
   padding-top: 0;
   padding-bottom: 0;
 }
-.pagefooter {
-    text-align: center;
-    text-transform: lowercase;
-    font-style: italic;
+hr {
+  margin: auto;
 }
