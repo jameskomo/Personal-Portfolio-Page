@@ -5,7 +5,7 @@ html {
 }
 body {
   margin: 0;
-  background-color: #587850;
+  background-color: #71c9ce;
 }
 
 .displayphoto {
@@ -29,12 +29,45 @@ height: 200px;
   background-color: #729d39;
 }
 .aboutme {
-  background-color: #709078;
+  background-color: #a6e3e9;
+  margin-top: 0;
   margin-left: 0;
   margin-right: 0;
   text-align: center;
+  padding-bottom: 30px;
 }
-.projects-container {
+.projectsdone {
+  padding-top: 20px;
+  margin-top: 0;
+  text-align: center;
+  text-decoration: underline;
+  font-style: oblique;
+  font-kerning: normal;
+  background-color: #cbf1f5;
+}
+.projects-container1 {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: b1bed5;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: left;
+  margin-left: 20px;
+}
+.projects-container2 {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: dfdfdf;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: left;
+  margin-left: 20px;
+}
+.projects-container3 {
   display: flex;
   flex-wrap: wrap;
   background-color: blue;
