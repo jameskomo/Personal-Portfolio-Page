@@ -34,10 +34,13 @@ height: 200px;
   margin-left: 0;
   margin-right: 0;
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 5px;
 }
+.whycode {
+  color: red;
+  }
 .projectsdone {
-  padding-top: 20px;
+  padding-top: 5px;
   margin-top: 0;
   text-align: center;
   text-decoration: underline;
@@ -50,7 +53,6 @@ height: 200px;
   clear: both;
   width: 250px;
   padding-left: 40px;
-  padding-right: 40px;
   padding-top: 0;
   padding-bottom: 0;
 }
