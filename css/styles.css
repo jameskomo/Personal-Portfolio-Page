@@ -1,12 +1,14 @@
 html {
   padding-top: 0;
-  padding-bottom: : 0;
+  padding-bottom: 0;
   margin: 0;
 }
-.bodybg {
-  background-color: #709078;
+body {
+  margin: 0;
+  background-color: #587850;
 }
-#displayphoto {
+
+.displayphoto {
 display: block;
 border-radius: 149px 149px 149px 149px;
 padding: 0;
@@ -24,10 +26,22 @@ height: 200px;
   margin-bottom: auto;
 }
 .mypersonaldetails {
-  background-color: 20716a;
+  background-color: #729d39;
 }
-#aboutme {
-  color: #ff5959
+.aboutme {
+  background-color: #709078;
   margin-left: 0;
   margin-right: 0;
+  text-align: center;
+}
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: blue;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: left;
+  margin-left: 20px;
 }
