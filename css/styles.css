@@ -8,6 +8,10 @@ body {
   background-color: #71c9ce;
 }
 
+a {
+ text-decoration: none;
+}
+
 .displayphoto {
 display: block;
 border-radius: 149px 149px 149px 149px;
@@ -17,9 +21,11 @@ height: 200px;
 }
 
 .myname {
-  font-size: 50px;
+  font-size: 45px;
   font-family: serif;
   text-align: center;
+  font-weight: bolder;
+  color: #ff6f3c;
 }
 #mytagline {
   text-align: center;
@@ -39,15 +45,18 @@ height: 200px;
 .whycode {
   color: red;
   }
+.education-job-experience {
+  background-color: #d7fbe8;
+}
 .projectsdone {
+  border-style: dotted;
+  border-width: thin;
   padding-top: 5px;
   margin-top: 0;
   text-align: center;
-  text-decoration: underline;
-  font-style: oblique;
   background-color: #cbf1f5;
+  font-family: sans-serif;
 }
-
 .projects-container1 {
   display: inline-block;
   clear: both;
@@ -55,4 +64,9 @@ height: 200px;
   padding-left: 40px;
   padding-top: 0;
   padding-bottom: 0;
+}
+.pagefooter {
+    text-align: center;
+    text-transform: lowercase;
+    font-style: italic;
 }
