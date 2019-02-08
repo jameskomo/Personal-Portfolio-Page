@@ -1,0 +1,15 @@
+html {
+  padding-top: 0;
+  padding-bottom: : 0;
+  margin: 0;
+}
+.bodybg {
+  background-color: #709078;
+}
+#displayphoto {
+float: right;
+border-radius: 149px 149px 149px 149px;
+padding: 0;
+margin: auto;
+height: 200px
+}
