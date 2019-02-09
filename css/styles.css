@@ -1,7 +1,6 @@
 /*******BLOCK AND INLINE ELEMENTS GO HERE******/
 body {
   margin: 0;
-  background-color: #ff8162;
 }
 
 
@@ -13,3 +12,23 @@ body {
 
 
 /*****CLASS TAGS DEFINED BELOW*********/
+.main-portfolio {
+  display: block;
+  background-color: #ffc1c8;
+}
+.personal-details {
+  background-color: #ff8484;
+  position: relative;
+  margin-top: 50px;
+  border-style: solid;
+  border-width: thick;
+}
+.education-work {
+  background-color: #ae7c7c;
+}
+.projects {
+  background-color: #f3f9fb;
+}
+.contactme {
+  background-color: #984a59;
+}
