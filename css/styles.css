@@ -1,7 +1,10 @@
 /*******BLOCK AND INLINE ELEMENTS GO HERE******/
-body {
+html {
   margin: 0;
+}
+body {
   text-align: center;
+  margin: 0;
 }
 
 
@@ -13,10 +16,11 @@ body {
 
 
 /*****CLASS TAGS DEFINED BELOW*********/
-.main-portfolio {
-  background-color: #ffc1c8;
-  padding-top: 0;
-  margin: 0;
+.myname {
+  font-family: 'Comfortaa', cursive;
+}
+.mypassion {
+  font-family: 'VT323', monospace;
 }
 .myphoto {
   border-radius: 100%;
@@ -28,14 +32,44 @@ body {
 .personal-details {
   background-color: #ff8484;
   position: relative;
-  margin-top: 50px;
+  margin-top: 0;
+}
+.what-i-love
+{
+  font-size: 100px;
 }
 .education-work {
   background-color: #ae7c7c;
+  display: block;
+  position: relative;
+  margin-bottom: 100px;
+}
+.education {
+  background-color: blue;
+  width: 300px;
+}
+.work {
+  background-color: red;
+  width: 300px;
 }
 .projects {
-  background-color: #f3f9fb;
+  display: inline-block;
+
+}
+.cookie-recipe {
+  float: left;
+  width: 200px;
+  height: 200px;
+}
+.travel-website {
+  width: 200px;
+  height: 200px;
+}
+.portfolio-page {
+  width: 200px;
+  height: 200px;
 }
 .contactme {
   background-color: #984a59;
+  margin: 0;
 }
