@@ -38,14 +38,40 @@ body {
 {
   font-size: 100px;
 }
+.education-work {
+  display: block;
+  background-color: #ae7c7c;
+}
+.education {
+  display: block;
+  background-color: green;
+  height: 200px;
+  width: 400px;
+  position: relative;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.work {
+  display: block;
+  background-color: red;
+  height: 200px;
+  width: 400px;
+  position: relative;
+  margin-bottom: 60%;
+  margin-left: 60%
+}
 .projects {
   display: inline-block;
-
+  }
+.projects-done {
+  text-decoration: underline;
+  font-family: 'Just Another Hand', cursive;
+  font-size: 60px;
+  color: #FF5733;
 }
 .cookie-recipe {
-  float: left;
   position: relative;
-  margin-right: 300px;
+  margin-right: 500px;
   width: 200px;
   height: 200px;
 }
@@ -53,14 +79,17 @@ body {
   width: 200px;
   position: relative;
   margin-right: 170px;
+  margin-top: 20px;
   height: 200px;
 }
 .portfolio-page {
   width: 200px;
   height: 200px;
+  padding-top: 10px;
 }
 .contactme {
   background-color: #984a59;
+  color: white;
   margin: 0;
   padding-bottom: 0;
 }
