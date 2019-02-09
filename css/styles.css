@@ -1,6 +1,7 @@
 /*******BLOCK AND INLINE ELEMENTS GO HERE******/
 body {
   margin: 0;
+  text-align: center;
 }
 
 
@@ -13,15 +14,21 @@ body {
 
 /*****CLASS TAGS DEFINED BELOW*********/
 .main-portfolio {
-  display: block;
   background-color: #ffc1c8;
+  padding-top: 0;
+  margin: 0;
+}
+.myphoto {
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  padding-top: 10px;
+
 }
 .personal-details {
   background-color: #ff8484;
   position: relative;
   margin-top: 50px;
-  border-style: solid;
-  border-width: thick;
 }
 .education-work {
   background-color: #ae7c7c;
