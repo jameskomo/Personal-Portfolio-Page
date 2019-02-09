@@ -61,7 +61,6 @@ height: 200px;
 }
 .hobbies {
   background-color: #e9fadd;
-  float: left;
   word-wrap: normal;
   display: inline-block;
 }
