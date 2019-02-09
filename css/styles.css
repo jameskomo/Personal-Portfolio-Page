@@ -38,31 +38,21 @@ body {
 {
   font-size: 100px;
 }
-.education-work {
-  background-color: #ae7c7c;
-  display: block;
-  position: relative;
-  margin-bottom: 100px;
-}
-.education {
-  background-color: blue;
-  width: 300px;
-}
-.work {
-  background-color: red;
-  width: 300px;
-}
 .projects {
   display: inline-block;
 
 }
 .cookie-recipe {
   float: left;
+  position: relative;
+  margin-right: 300px;
   width: 200px;
   height: 200px;
 }
 .travel-website {
   width: 200px;
+  position: relative;
+  margin-right: 170px;
   height: 200px;
 }
 .portfolio-page {
@@ -72,4 +62,7 @@ body {
 .contactme {
   background-color: #984a59;
   margin: 0;
+  padding-bottom: 0;
+}
+.contact-button {
 }
