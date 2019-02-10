@@ -2,6 +2,7 @@
 body {
   text-align: center;
   background-color: #a7d7c5;
+  margin: 0;
 }
 
 
@@ -22,18 +23,27 @@ body {
   margin-top: 30px;
   padding-top: 50px;
   padding-bottom: 50px;
+  margin-right: 0;
+  margin-left: 0;
 }
 .cookie-recipe {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
+  float: left;
+  clear: right;
+}
+.recipe {
+  width: 30px;
 }
 .travel-website {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
+  padding-right: 20%;
+  padding-top: 100px;
 }
 .portfolio-page {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
 }
 .reach-me {
   background-color: #f4f9f4;
