@@ -65,4 +65,6 @@ body {
 }
 .reach-me {
   background-color: #f4f9f4;
+  height: 100px;
+  padding-top: 30px;
 }
