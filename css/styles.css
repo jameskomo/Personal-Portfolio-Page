@@ -3,20 +3,31 @@ body {
   text-align: center;
   background-color: #a7d7c5;
   margin: 0;
+  padding: ;
+  width: 100%;
 }
 h1 {
 
   font-family: 'Waiting for the Sunrise', cursive;
+  color: #1874c3;
+  font-size: 50px;
 
 }
 
 h2 {
 
   font-family: 'Cormorant Unicase', serif;
+  color: #0c317a;
 }
 h3 {
 
   font-family: 'Niramit', sans-serif;
+  color: #f47645;
+}
+h4 {
+
+  font-family: 'Special Elite', cursive;
+  color: #0f0a3c;
 }
 
 
@@ -37,6 +48,9 @@ h3 {
 .my-passion {
   color: red;
 }
+.myname {
+  font-size: 100px;
+}
 .hr {
   width: 50%;
 }
@@ -54,11 +68,17 @@ h3 {
   background-color: #ebf0c2;
   position: relative;
   margin-top: 30px;
-  padding-top: 50px;
+  padding-top: 0;
   padding-bottom: 50px;
   margin-right: 0;
   margin-left: 0;
 
+}
+.projects-header {
+  font-size: 30px;
+  text-decoration: underline;
+  text-transform: capitalize;
+  color: #0d627a;
 }
 .cookie-recipe {
   height: 200px;
@@ -95,7 +115,9 @@ h3 {
   text-decoration: none;
   border-color: #dfe2e2;
   background-color: #1f3c88;
-  border-radius: 20%
+  border-radius: 15px;
+  color: #ffa952;
+  text-transform: uppercase;
 }
 .emailme:hover {
   background-color: red;
