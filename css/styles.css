@@ -1,10 +1,9 @@
-/*******BLOCK AND INLINE ELEMENTS GO HERE******/
-html {
-  margin: 0;
-}
+/*****BLOCK ELEMENTS STYLING*****/
 body {
   text-align: center;
-  margin: 0;
+}
+img.my-details {
+  border-radius: 100%
 }
 
 
@@ -12,86 +11,4 @@ body {
 
 
 
-
-
-
-/*****CLASS TAGS DEFINED BELOW*********/
-.myname {
-  font-family: 'Comfortaa', cursive;
-}
-.mypassion {
-  font-family: 'VT323', monospace;
-}
-.myphoto {
-  border-radius: 100%;
-  width: 150px;
-  height: 150px;
-  padding-top: 10px;
-
-}
-.personal-details {
-  background-color: #ff8484;
-  position: relative;
-  margin-top: 0;
-}
-.what-i-love
-{
-  font-size: 100px;
-}
-.education-work {
-  display: block;
-  background-color: #ae7c7c;
-}
-.education {
-  display: block;
-  background-color: green;
-  height: 200px;
-  width: 400px;
-  position: relative;
-  margin-top: 20px;
-  margin-left: 30px;
-}
-.work {
-  display: block;
-  background-color: red;
-  height: 200px;
-  width: 400px;
-  position: relative;
-  margin-bottom: 60%;
-  margin-left: 60%
-}
-.projects {
-  display: inline-block;
-  }
-.projects-done {
-  text-decoration: underline;
-  font-family: 'Just Another Hand', cursive;
-  font-size: 60px;
-  color: #FF5733;
-}
-.cookie-recipe {
-  position: relative;
-  margin-right: 500px;
-  width: 200px;
-  height: 200px;
-}
-.travel-website {
-  width: 200px;
-  position: relative;
-  margin-right: 170px;
-  margin-top: 20px;
-  height: 200px;
-}
-.portfolio-page {
-  width: 200px;
-  height: 200px;
-  padding-top: 10px;
-}
-.contactme {
-  background-color: #984a59;
-  color: white;
-  margin: 0;
-  padding-bottom: 0;
-}
-.contact-button {
-}
+/****CLASS ELEMENTS STYLING*****/
