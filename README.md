@@ -8,7 +8,7 @@ The second section is ABOUT ME. This lists my education background, work experie
 ## Setup/Installation Requirements
 * You will need access to a browser and connectivity to access my portfolio
 * visit https://github.com/jameskomo/jameskomo.github.io.git to access
-* Enjoy browsing through my website
+* Enjoy browsing through my website.
 
 ## Known Bugs
 There are currently no known issues with my web page. However, should you encounter any, feel free to contact me on the email provided on the page.
