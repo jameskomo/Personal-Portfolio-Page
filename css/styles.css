@@ -1,9 +1,12 @@
 /*****BLOCK ELEMENTS STYLING*****/
+html {
+  width: 100%;
+  margin: auto;
+}
 body {
   text-align: center;
   background-color: #a7d7c5;
   margin: 0;
-  padding: ;
   width: 100%;
 }
 h1 {
