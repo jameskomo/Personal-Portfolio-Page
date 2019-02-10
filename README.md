@@ -7,7 +7,7 @@ This portfolio landing page contains three main sections; a top container that i
 The second section is ABOUT ME. This lists my education background, work experience and hobbies.
 ## Setup/Installation Requirements
 * You will need access to a browser and connectivity to access my portfolio
-* visit https://github.com/jameskomo/jameskomo.github.io.git to access
+* visit https://jameskomo.github.io/ to access
 * Enjoy browsing through my website
 
 ## Known Bugs
