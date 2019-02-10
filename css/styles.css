@@ -12,12 +12,27 @@ body {
 
 
 /****CLASS ELEMENTS STYLING*****/
+.my-details {
+  margin: auto;
+}
 .myphoto {
   border-radius: 100%;
   height: 180px;
 }
 .my-passion {
   color: red;
+}
+.hr {
+  width: 50%;
+}
+.education-work {
+  display: block;
+  text-align: justify;
+  width: 100%;
+  text-indent: -3px;
+  padding-left: 35%;
+  line-height: 2;
+  margin: 0;
 }
 .projects-done {
   display: block;
